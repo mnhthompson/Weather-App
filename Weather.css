@@ -7,6 +7,9 @@ body {
     height: 100vh;
     margin: 0;
     background-image: url('BackgroundRose.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 
 }
 
